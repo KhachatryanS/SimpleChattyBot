@@ -1,0 +1,2 @@
+# SimpleChattyBot
+Simple console assistant
